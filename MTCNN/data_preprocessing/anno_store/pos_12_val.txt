@@ -1,0 +1,8 @@
+../data_set/val/12/positive\0.jpg 1 0.19 0.10 0.04 0.01
+../data_set/val/12/positive\1.jpg 1 -0.18 0.01 0.23 -0.08
+../data_set/val/12/positive\2.jpg 1 0.06 0.04 0.05 0.25
+../data_set/val/12/positive\3.jpg 1 0.15 -0.05 0.10 -0.13
+../data_set/val/12/positive\4.jpg 1 0.11 -0.11 0.04 0.07
+../data_set/val/12/positive\5.jpg 1 -0.05 -0.20 -0.12 -0.02
+../data_set/val/12/positive\6.jpg 1 -0.11 0.01 -0.12 -0.19
+../data_set/val/12/positive\7.jpg 1 0.24 -0.02 0.03 0.00
