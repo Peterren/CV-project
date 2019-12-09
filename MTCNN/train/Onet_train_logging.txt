@@ -1,2 +1,0 @@
-train Loss: 0.0208 accuracy: 0.8659 cls Loss: 0.2931 offset Loss: 0.0249
-val Loss: 0.0068 accuracy: 0.9654 cls Loss: 0.1050 offset Loss: 0.0079
